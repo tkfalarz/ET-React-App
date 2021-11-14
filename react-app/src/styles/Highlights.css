@@ -1,0 +1,45 @@
+.container{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+    position: relative;
+    background-image: linear-gradient( rgb(118 118 118 / 60%), rgb(118 118 118 / 50%), rgb(118 118 118 / 45%), rgb(255 255 255 / 0%));
+}
+
+label{
+    margin: 0;
+    width: auto;
+    height: auto;
+}
+
+.absolutePositionedContainer{
+    float: left;
+    margin-left: 300px;
+    position: absolute;
+    transform: translateY(-50%);
+    top:50%;
+}
+
+.dataFields{
+    overflow: hidden;
+    float: left;
+    margin:0;
+
+}
+
+.logo{
+    float: left;
+    margin: 0;
+}
+
+.logoLabel{
+    float: left;
+    margin-right: 20px;
+    padding-top: 14%;
+    height: 100%;
+    width: auto;
+    position: relative;
+}

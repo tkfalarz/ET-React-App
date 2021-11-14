@@ -1,0 +1,10 @@
+.locationLabel{
+    float: left;
+    width: auto;
+    height: auto;
+    margin-right: 80px;
+    padding-top: 25px;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
