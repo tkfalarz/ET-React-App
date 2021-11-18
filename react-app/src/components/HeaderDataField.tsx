@@ -1,5 +1,5 @@
 import React from "react"
-import "../styles/HighlightsDataField.css";
+import "../styles/HeaderDataField.css";
 
 const HighlightsDataField = (props: any) => (
   <div className="field">
